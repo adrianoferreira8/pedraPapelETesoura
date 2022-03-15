@@ -1,1 +1,1 @@
-# pedraPapelETesoura
+# Só um projeto de teste
